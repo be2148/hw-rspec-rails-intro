@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '3.3.8'
+
 gem 'rails', '~> 7.1.5'
 gem 'sprockets-rails'
 gem 'faraday'
